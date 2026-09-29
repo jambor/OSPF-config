@@ -1,0 +1,2 @@
+# OSPF-config
+OSPF konfiguráció
